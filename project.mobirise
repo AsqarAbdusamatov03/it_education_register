@@ -58,7 +58,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 24,
     "versionPublish": "5.6.11",
     "imageResize": true
@@ -1143,7 +1143,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "Page 3",
+        "title": "it_education_register",
         "meta_descr": "",
         "socialSharingUrl": ""
       },
